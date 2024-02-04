@@ -1,0 +1,31 @@
+.App {
+  background-image:url('./assets/bg.png');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+.logoBlock {
+  padding-top: 50px;
+}
+.heading {
+  margin-top: -20px;
+  color: #fff;
+  font-size: 52px;
+}
+.meme {
+  min-width: 800px;
+}
+.socialBlock {
+  margin-top:-20px;
+}
+.button{
+  margin-top: 30px;
+  margin-bottom: 100px;
+  padding: 20px 50px;
+  font-size: 36px;
+  color:#fff;
+  background-color: #000;
+  border-radius: 10px;
+  border: 0;
+  font-weight: 900;
+}
